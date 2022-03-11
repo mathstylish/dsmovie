@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #4D41C0;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body {
+    background-color: #E8E8E8;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: unset;
+}
