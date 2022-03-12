@@ -18,6 +18,15 @@ public class User {
     public User() {
     }
 
+    public User(String email) {
+        this.email = email;
+    }
+
+    public User(Long id, String email) {
+        this.id = id;
+        this.email = email;
+    }
+
     public Long getId() {
         return id;
     }
