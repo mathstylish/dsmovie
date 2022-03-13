@@ -41,6 +41,7 @@
         }
       }
     ],
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
     "class-methods-use-this": "off",
     "import/prefer-default-export": "off",
     "jsx-a11y/label-has-associated-control": 0,
