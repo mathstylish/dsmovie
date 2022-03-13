@@ -8,13 +8,10 @@ type Props = {
   score: number;
 };
 
-<<<<<<< HEAD
 type StarProps = {
   fill: number;
 };
 
-=======
->>>>>>> baee5e3781897eb1d322dca22c66afd709995668
 // EX:
 // getFills(3.5) => [1, 1, 1, 0.5, 0]
 // getFills(4.1) => [1, 1, 1, 1, 0.5]
