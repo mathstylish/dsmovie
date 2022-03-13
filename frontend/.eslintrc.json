@@ -29,6 +29,7 @@
     "camelcase": "off",
     "import/no-unresolved": "error",
     "no-useless-return": 0,
+    "@typescript-eslint/no-explicit-any": 0,
     "@typescript-eslint/naming-convention": [
       "error",
       {
