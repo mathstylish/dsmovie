@@ -1,4 +1,4 @@
-import MovieStars from "pages/MovieStars";
+import MovieStars from "components/MovieStars";
 
 import "./styles.css";
 
